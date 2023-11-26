@@ -1,0 +1,194 @@
+\documentclass{article}
+\usepackage{bubblecv}
+
+\begin{document}
+
+
+\begin{cv}[Resumephoto]{Sneha Gupta}{MBA}
+
+
+\cvsection[summary]{Profile}  %-----------------------------------------------------------
+
+Dedicated and motivated HR fresher seeking to contribute strong communication and organizational skills to a dynamic HR team. Eager to apply academic knowledge and gain practical experience in employee Talent acquisition, recruitment, and HR processes.
+
+
+\cvsection[work]{Work experience}  %------------------------------------------------------
+
+\begin{cvevent}[2023][Present]
+    \cvname{HR Talent Acquisition Internship}
+    \cvdescription{NoBrokerHood
+Bangalore 3 July 2023 – 3 August 2023}
+    \begin{itemize}
+        \item Talent Acquisition Expert: Proven in
+recruitment, job postings and resume
+screening.
+        \item Onboarding Specialist: Ensured smooth transitions for
+new hires.
+        \item Collaborative Team Player: Contributed to a
+cohesive HR team.
+        \item Efficient Interview Scheduler: Proficient in
+streamlining interview processes.
+\item Recruitment Contributor: Actively involved in
+selection processes.
+\item Talent Source: Adept at sourcing top talent from
+diverse platforms.
+\item Strategic Approach: Committed to
+enhancing organizational success through
+talent acquisition strategies
+
+    \end{itemize}
+\end{cvevent}
+\begin{cvevent}[2023][Present]
+
+\cvname{HR Intern }
+    \cvdescription{ ThinkWht 14 Oct 2023}
+    \begin{itemize}
+        \item Admin tasks, employee records, HR docs
+
+        \item Recruitment support, screenings, interviews
+        \item Collaborative Team Player: Contributed to a
+cohesive HR team.
+        \item Onboarding/offboarding, exit interviews
+\item HR policy contributions
+\item BDA hiring and Excel management
+\item Campus Ambassador Initiatives
+
+
+    \end{itemize}
+\end{cvevent}
+
+
+\cvsection[education]{Education}
+
+
+%------------------------------------------------------
+
+\begin{cvevent}[2019][2024]
+    \cvname{UNITED UNIVERSITY | 2022-2024}
+    \cvdescription{Master of Business Administration (HR and Marketing)}
+    \cvname{UNIVERSITY OF ALLAHABAD | 2019 - 2022}
+    \cvdescription{Bachelor of Science in Biology }
+    \cvname{CROSTHWAITE GIRLS INTER COLLEGE | 2018 - 2019}
+    \cvdescription{Higher Secondary School (XII)) }
+    
+\end{cvevent}
+
+\cvsidebar %-----------------------------------------------------------------------------
+
+
+
+
+
+\cvsection[contact]{Contact}  %----------------------------------------------------------
+
+\begin{cvitem}
+    \textbf{Email}\\
+    \href{Sneha.6@outlook.com}{\texttt{Sneha.6@outlook.com}}
+\end{cvitem}
+
+\cvseparator[3]
+\begin{cvitem}[Phone][4]
+    \textbf{Phone}\\
+    \href{tel:8303690363}{\texttt{8303690363}}
+\end{cvitem}
+
+\cvseparator[3]
+\begin{cvitem}[Home][4]
+    \textbf{Address}\\
+    818 28 B Allahpur\\ Prayagraj, Uttar Pradesh
+\end{cvitem}
+
+\cvseparator[3]
+\begin{cvitem}[Globe][4]
+    \textbf{Linkedin}\\
+    \href{www.linkedin.com/in/hellosneha}{\texttt{www.linkedin.com/in/hellosneha}}
+\end{cvitem}
+
+
+\cvsection[skills]{Skills}  %-----------------------------------------------------------
+
+\begin{cvitem}
+    Communication Skills
+\end{cvitem}
+
+\cvseparator
+\begin{cvitem}
+    Recruitment and Talent Acquisition
+\end{cvitem}
+
+\cvseparator
+\begin{cvitem}
+    Leadership
+\end{cvitem}
+
+\cvseparator
+\begin{cvitem}
+    Team Collaboration
+\end{cvitem}
+
+\cvseparator
+
+\cvsection[target]{Accompolishments}  %----------------------------------------------------------
+
+\begin{cvitem}
+    Class Representative (UU)
+\end{cvitem}
+
+\cvseparator
+\begin{cvitem}
+    Bajaj HR Workshop
+\end{cvitem}
+
+\begin{cvitem}
+    HR Club Member (UU)
+\end{cvitem}
+
+\cvseparator
+\begin{cvitem}
+    Bajaj FinServ CPBFI Training
+\end{cvitem}
+
+
+\cvsection[summary]{Certifications}  %----------------------------------------------------------
+
+\begin{cvitem}
+   Human Resource Management
+\end{cvitem}
+
+\cvseparator
+\begin{cvitem}
+    Agile program manager
+\end{cvitem}
+
+\begin{cvitem}
+    Advance Excel
+\end{cvitem}
+
+\cvseparator
+\begin{cvitem}
+    Scrum Master
+\end{cvitem}
+
+\cvseparator
+\begin{cvitem}
+    RDBMS
+\end{cvitem}
+
+\cvseparator
+\begin{cvitem}
+    CCC
+\end{cvitem}
+
+
+\cvseparator
+
+\cvsection[languages]{Languages}  %--------------------------------------------------------
+
+\cvskill{English}{Fluent}{1.0}
+\cvskill{Hindi}{Fluent}{1.0}
+
+
+\end{cv}
+
+
+\end{document}
